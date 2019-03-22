@@ -1,4 +1,4 @@
-# Getting Started With Bumblebee
+# Getting Started With BOT
 
 ##### Pre-Requisites
 You must have Go installed on your machine.
